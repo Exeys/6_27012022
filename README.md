@@ -1,5 +1,5 @@
 
-🙍‍♂️ Adrien Johannin - Projet 6 (Créez un site accessible pour une plateforme de photographes)
+🙍‍♂️ Projet 6 (Créez un site accessible pour une plateforme de photographes)
 
 ![image.png](https://user.oc-static.com/upload/2020/08/18/15977566540758_15975854296086_image1%20%281%29.png)
 ## 🔨Contexte
