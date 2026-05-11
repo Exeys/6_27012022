@@ -13,4 +13,4 @@ Ils ont récemment levé des fonds et aimeraient mettre à jour leur site web.
 "*Pour résumer, notre objectif est de construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype. Notre équipe de back-end intégrera le système existant de FishEye une fois que tu auras terminé le code pour ta partie du projet.*"
 
 ## 📚  Livrables
-- Un fichier au format TXT contenant le lien vers votre code sur [GitHub](https://github.com/Exeys/AdrienJohannin_6_27012022) avec les fichiers HTML, CSS et JavaScript. 
+- Un fichier au format TXT contenant le lien vers votre code sur [GitHub](https://github.com/Exeys/6_27012022) avec les fichiers HTML, CSS et JavaScript. 
